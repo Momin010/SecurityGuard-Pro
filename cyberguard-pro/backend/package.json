@@ -34,7 +34,7 @@
     "uuid": "^9.0.1",
     "nodemailer": "^6.9.7",
     "nmap": "^2.0.2",
-    "ping": "^0.4.4",
+    "ping": "^0.4.4"
 
   },
   "devDependencies": {
