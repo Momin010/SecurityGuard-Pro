@@ -35,7 +35,7 @@
     "nodemailer": "^6.9.7",
     "nmap": "^2.0.2",
     "ping": "^0.4.4",
-    "netstat": "^1.0.2"
+
   },
   "devDependencies": {
     "nodemon": "^3.0.2",
